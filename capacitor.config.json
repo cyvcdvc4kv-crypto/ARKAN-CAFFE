@@ -1,0 +1,8 @@
+{
+  "appId": "com.onemillioncaffe.app",
+  "appName": "One Million Caffe",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
